@@ -49,7 +49,7 @@
 -
 	-
 		- 前世代のpopulationの内、demonstratorと文化形質をランダムに決める
-		- そのdemonstratorがランダムに決まった文化形質を実際に持っており、さらにその文化形質に対する選好が十分に高い時、形質(population_traitsのcopierのindexの箇所を1に)とその文化形質への選好をコピーする
+		- そのdemonstratorがランダムに決まった文化形質を実際に持っており、さらに観察者（copier, コピーする側）のその文化形質に対する選好が十分に高い時、形質(population_traitsのcopierのindexの箇所を1に)とその文化形質への選好をコピーする
 
 ### Birth/Death
 -
